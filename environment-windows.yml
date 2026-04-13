@@ -1,0 +1,22 @@
+name: geopy
+channels:
+  - defaults
+dependencies:
+  - python=3.7.3
+  - cartopy
+  - pip
+  - pip:
+    - numpy
+    - scipy
+    - matplotlib
+    - seaborn
+    - obspy
+    - jupyterlab
+    - PyQt5
+    - pyyaml
+    - progressbar2
+    - requests
+    - pyrocko
+    # Optional package below #
+    - pylint # linting
+    - black # formatting
