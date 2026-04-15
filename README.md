@@ -13,7 +13,7 @@ See the Jupyter [Setup Notebook](setup.ipynb) to begin the course.
 
 ## Follow on Binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EvaEibl/Volcanoseismology/2.0)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EvaEibl/Observationalseismology/2.0)
 
 Here you can use and play with all notebooks.
 
@@ -26,7 +26,7 @@ If you don't want to setup Python locally you can follow these steps:
 3. Once signed in, press **CTRL + O**
    1. A new window will pop up
    2. Select GitHub from the menu on the top
-   3. Enter **EvaEibl/Volcanoseismology** into the search field and press *Enter*
+   3. Enter **EvaEibl/Observationalseismology** into the search field and press *Enter*
    4. Choose the notebook you want to work on :)
 
 In case you chose to use Colab you can skip the [Setup Notebook](setup.ipynb).
