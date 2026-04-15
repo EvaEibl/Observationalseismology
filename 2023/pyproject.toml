@@ -1,0 +1,30 @@
+[project]
+name = "skience2023"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "cartopy>=0.25.0",
+    "cmasher>=1.9.2",
+    "disba>=0.7.0",
+    "dynamic-yaml>=2.0.0",
+    "folium>=0.20.0",
+    "ipython>=9.11.0",
+    "jupyter>=1.1.1",
+    "msnoise",
+    "netcdf4>=1.7.4",
+    "obspycsv>=1.0.0",
+    "pandas>=3.0.1",
+    "pdbpp>=0.12.1",
+    "pycwt>=0.5.0b0",
+    "pytest>=9.0.2",
+    "pytest-json-report>=1.5.0",
+    "qopen>=4.4",
+    "statsmodels>=0.14.6",
+    "tqdm>=4.67.3",
+    "xarray>=2026.2.0",
+]
+
+[tool.uv.sources]
+msnoise = { git = "https://github.com/ROBelgium/MSNoise.git" }
