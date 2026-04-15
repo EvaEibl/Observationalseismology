@@ -1,0 +1,27 @@
+[project]
+name = "skience2024"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10,<3.11"
+dependencies = [
+    "ipython<9",
+    "obspy>=1.5.0",
+    "scipy>=1.11.0",
+    "matplotlib>=3.10.8",
+    "pandas>=2.3.3",
+    "seaborn>=0.13.2",
+    "scikit-learn>=1.7.2",
+    "setuptools>=82.0.1",
+    "covseisnet>=1.0.0",
+    #"numpy<2.0",
+]
+
+[tool.uv.sources]
+msnoise = { git = "https://github.com/ROBelgium/MSNoise.git", rev = "pre-alec-version" }
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.2.0",
+    "ruff>=0.15.10",
+]
