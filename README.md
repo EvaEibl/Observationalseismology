@@ -3,13 +3,13 @@
 
 # Advanced Methods in Observational Seismology
 
-This repository contains the Jupyter Notebooks that accompany the course **ObservationalSeismology** at the **Institute of Geosciences: General Geophysics**.
+This repository contains the Jupyter Notebooks that accompany the course **Advanced methods in observational seismology** at the **Institute of Geosciences: General Geophysics**.
 
 ## Setup & Start
 
 See the Jupyter [Setup Notebook](setup.ipynb) to begin the course.
 
-**Note**: The course can be followed solely on GitHub. Only the **exercise_X** Notebooks require executing code and must therefore be run offline or use a Cloud Service such as https://colab.research.google.com to import and run the notebooks.
+**Note**: The Notebooks require executing code and must therefore be run offline or use a Cloud Service such as https://colab.research.google.com to import and run the notebooks.
 
 ## Follow on Binder
 
