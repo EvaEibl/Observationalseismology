@@ -3,7 +3,7 @@
 
 # Analysis of Seismological Signals on Active Volcanoes (Volcano Seismology)
 
-This repository contains the Jupyter Notebooks that accompany the course **Analysis of Seismological Signals on Active Volcanoes** at the **Institute of Geosciences: General Geophysics**.
+This repository contains the Jupyter Notebooks that accompany the course **ObservationalSeismology** at the **Institute of Geosciences: General Geophysics**.
 
 ## Setup & Start
 
