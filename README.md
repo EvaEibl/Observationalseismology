@@ -1,7 +1,7 @@
 <img src="images/up_geos_logo.jpg" style="width: 128px; height: 128px">
 <img src="images/up_logo.jpg" style="width: 128px; height: 128px; float: right">
 
-# Analysis of Seismological Signals on Active Volcanoes (Volcano Seismology)
+# Advanced Methods in Observational Seismology
 
 This repository contains the Jupyter Notebooks that accompany the course **ObservationalSeismology** at the **Institute of Geosciences: General Geophysics**.
 
