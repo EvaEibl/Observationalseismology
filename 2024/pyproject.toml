@@ -24,4 +24,5 @@ msnoise = { git = "https://github.com/ROBelgium/MSNoise.git", rev = "pre-alec-ve
 dev = [
     "ipykernel>=7.2.0",
     "ruff>=0.15.10",
+    "setuptools>=82.0.1",
 ]

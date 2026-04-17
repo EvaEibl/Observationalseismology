@@ -786,7 +786,6 @@ dependencies = [
     { name = "covseisnet" },
     { name = "ipython" },
     { name = "matplotlib" },
-    { name = "numpy" },
     { name = "obspy" },
     { name = "pandas" },
     { name = "scikit-learn" },
@@ -799,6 +798,7 @@ dependencies = [
 dev = [
     { name = "ipykernel" },
     { name = "ruff" },
+    { name = "setuptools" },
 ]
 
 [package.metadata]
@@ -806,7 +806,6 @@ requires-dist = [
     { name = "covseisnet", specifier = ">=1.0.0" },
     { name = "ipython", specifier = "<9" },
     { name = "matplotlib", specifier = ">=3.10.8" },
-    { name = "numpy", specifier = "<2.0" },
     { name = "obspy", specifier = ">=1.5.0" },
     { name = "pandas", specifier = ">=2.3.3" },
     { name = "scikit-learn", specifier = ">=1.7.2" },
@@ -819,6 +818,7 @@ requires-dist = [
 dev = [
     { name = "ipykernel", specifier = ">=7.2.0" },
     { name = "ruff", specifier = ">=0.15.10" },
+    { name = "setuptools", specifier = ">=82.0.1" },
 ]
 
 [[package]]
